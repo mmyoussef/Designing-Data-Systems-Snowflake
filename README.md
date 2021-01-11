@@ -1,5 +1,5 @@
 # Implementing a Data System using Snowflake
-The project implements a data warehouse for reviews data from yelp.com. The project includes a staging area, ODS creation and loading, Star Schema creation and loading. The project is a part of Udacity Data Architecture Nano Degree. Some points in constraints were ignored for time being.
+The project implements a data warehouse for reviews data from yelp.com. The project includes a staging area, ODS creation and loading, Star Schema creation and loading. Some points in constraints were ignored for time being.
 
 ## Yelp Data
 The data used is data publicly availed by yelp.com about reviews and tips. The data is in JSON format and its description is as below:
